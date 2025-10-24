@@ -2,7 +2,6 @@
 
 # 🧠 TypeScript Beginner Exercises
 
-This file contains **11 simple TypeScript exercises** designed for beginners.  
 They cover loops, conditions, and data types — without solutions — to help you practice fundamental concepts.
 
 ---
